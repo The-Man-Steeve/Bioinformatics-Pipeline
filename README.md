@@ -1,4 +1,4 @@
-```md The files include: ```
+```sh The files include: ```
 
 Project outline: 	CS5393 - Final Project.pdf
 
